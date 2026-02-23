@@ -24,7 +24,7 @@ export default function Header({ onMobileMenuToggle }: HeaderProps) {
             <Menu className="h-5 w-5" />
           </Button>
 
-          <img src="/logo.png" alt="Affiniks RMS" className="h-11 object-contain" />
+          <img src="/logo.png" alt="Nuam RMS" className="h-28 w-40 object-contain" />
         </div>
 
         <div className="flex items-center gap-3">

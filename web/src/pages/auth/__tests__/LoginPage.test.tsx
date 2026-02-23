@@ -39,12 +39,12 @@ describe("LoginPage", () => {
     render(<LoginPage />, { wrapper: TestWrapper });
 
     // Check for logo
-    expect(screen.getByAltText("Affiniks RMS")).toBeInTheDocument();
+    expect(screen.getByAltText("Nuam RMS")).toBeInTheDocument();
 
     // Check for headings
     expect(screen.getByText("Welcome back")).toBeInTheDocument();
     expect(
-      screen.getByText("Sign in to your Affiniks RMS account")
+      screen.getByText("Sign in to your Nuam RMS account")
     ).toBeInTheDocument();
 
     // Check for form fields
@@ -118,7 +118,7 @@ describe("LoginPage", () => {
     // Check for branding content using more flexible text matching
     expect(screen.getByText("Welcome back")).toBeInTheDocument();
     expect(
-      screen.getByText("Sign in to your Affiniks RMS account")
+      screen.getByText("Sign in to your Nuam RMS account")
     ).toBeInTheDocument();
   });
 

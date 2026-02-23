@@ -214,7 +214,7 @@ export default function CreateUserPage() {
                           {...field}
                           id="email"
                           type="email"
-                          placeholder="e.g., john.doe@affiniks.com"
+                          placeholder="e.g., john.doe@nuam.com"
                           className="h-11 border-slate-200 focus:border-blue-500 focus:ring-blue-500/20"
                         />
                       )}

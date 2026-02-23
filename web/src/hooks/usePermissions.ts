@@ -42,7 +42,7 @@ export const usePermissions = () => {
     );
   };
 
-  // Common permission checks for Affiniks RMS
+  // Common permission checks for Nuam RMS
   const canManageUsers = hasPermission(["manage:users", "*"]);
   const canViewUsers = hasPermission(["read:users", "manage:users", "*"]);
   const canManageProjects = hasPermission(["manage:projects", "*"]);

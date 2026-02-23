@@ -44,7 +44,7 @@ function RmsRightPanel({
   className = "",
   logoSrc,
   statLine = "Streamlining healthcare recruitment with advanced technology and proven expertise.",
-  headline = "Welcome to Affiniks RMS",
+  headline = "Welcome to Nuam RMS",
   subhead = "Comprehensive recruitment management system empowers healthcare staffing with intelligent candidate matching, automated workflows, and real-time collaboration—from initial screening to successful placement.",
   ctaTitle = "Access your recruitment dashboard",
   ctaSubhead = "Manage candidates, track placements, monitor performance metrics, and collaborate with your team in one unified platform.",
@@ -116,7 +116,7 @@ function RmsRightPanel({
         <motion.img
           whileHover={{ scale: 1.05 }}
           src={logoSrc}
-          alt="Affiniks logo"
+          alt="Nuam logo"
           className="h-20 w-auto drop-shadow-2xl"
         />
       ) : (
@@ -292,7 +292,7 @@ export default function LoginPage() {
                 <div className="inline-flex items-center justify-center w-full h-25 bg-gradient-to-br from-slate-900 to-slate-800 rounded-2xl shadow-2xl p-4">
                   <img
                     src="/logo.png"
-                    alt="Affiniks RMS"
+                    alt="Nuam RMS"
                     className="h-17 w-auto filter"
                   />
                 </div>
@@ -306,7 +306,7 @@ export default function LoginPage() {
                   Welcome back
                 </h1>
                 <p className="text-slate-600">
-                  Sign in to your Affiniks RMS account
+                  Sign in to your Nuam RMS account
                 </p>
               </div>
 

@@ -1,5 +1,5 @@
 /**
- * Document Type Constants - Affiniks RMS Frontend
+ * Document Type Constants - Nuam RMS Frontend
  *
  * MUST match backend: backend/src/common/constants/document-types.ts
  *

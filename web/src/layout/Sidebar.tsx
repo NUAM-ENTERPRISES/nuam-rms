@@ -361,10 +361,10 @@ export default function Sidebar({
                   isScrolled ? "text-sm" : "text-base"
                 )}
               >
-                Affiniks
+                Nuam
               </h5>
               <p className="text-[8px] font-bold text-slate-600 dark:text-slate-400 uppercase tracking-wider">
-                RMS Platforms
+                Nuam Platforms
               </p>
             </div>
           </div>
@@ -431,7 +431,7 @@ export default function Sidebar({
               </div>
               <div>
                 <p className="text-xs font-semibold text-slate-900 dark:text-white">
-                  Affiniks RMS
+                  Nuam RMS
                 </p>
                 <p className="text-[10px] text-slate-600 dark:text-slate-400">
                   Version 2.0.0

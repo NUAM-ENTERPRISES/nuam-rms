@@ -1,6 +1,6 @@
 # App Layout Documentation
 
-This document explains how the premium app shell works in Affiniks RMS.
+This document explains how the premium app shell works in Nuam RMS.
 
 ## 🏗️ Architecture Overview
 

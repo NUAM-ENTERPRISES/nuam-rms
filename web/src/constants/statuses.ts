@@ -1,5 +1,5 @@
 /**
- * Status Constants - Affiniks RMS Frontend
+ * Status Constants - Nuam RMS Frontend
  *
  * MUST match backend: backend/src/common/constants/statuses.ts
  * These constants are used for UI rendering, validation, and API calls

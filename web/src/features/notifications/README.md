@@ -1,6 +1,6 @@
 # Notifications Feature
 
-This feature provides real-time notifications for the Affiniks RMS application, following the FE_GUIDELINES.md architecture.
+This feature provides real-time notifications for the Nuam RMS application, following the FE_GUIDELINES.md architecture.
 
 ## Architecture
 
