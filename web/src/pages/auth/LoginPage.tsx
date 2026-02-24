@@ -146,7 +146,7 @@ function RmsRightPanel({
     className="mt-4"
   >
    <span className="text-xs text-gray-400 tracking-widest font-medium drop-shadow-2xl drop-shadow-amber-200">
-              AFFINIKS
+              Nuam
     </span>
   </motion.div>
 
